@@ -1,5 +1,5 @@
 # A mock landing page
-Just a practice landing page thing.
+Just a practice landing page thing. It pulls images from the Unsplash API.
 
 ### Screenshots
 
